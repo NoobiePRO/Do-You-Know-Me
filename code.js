@@ -194,7 +194,7 @@ else{
   console.log(chalk.magentaBright.bgBlueBright("You are noob please study about me."))
 }
 }
-
+//fv
 
 gameplay()
 show()
